@@ -84,7 +84,7 @@ body{
 
 }
 .weather{
-    display: none;
+    /* display: none; */
 }
 .error{
     text-align: left;
